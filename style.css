@@ -79,4 +79,7 @@ h5 {
     color: gray;
     margin-bottom: 10px;
 }
+input[type=checkbox]:checked + label{
+    text-decoration:line-through  
+}
 
